@@ -1,0 +1,15 @@
+node_modules/
+.next/
+.vercel/
+out/
+coverage/
+playwright-report/
+test-results/
+*.tsbuildinfo
+.env*
+.DS_Store
+.reference-integrity.json
+.npm-cache/
+.browser-cache/
+next-env.d.ts
+.vercel

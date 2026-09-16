@@ -1,0 +1,10 @@
+node_modules
+.next
+.npm-cache
+.browser-cache
+.reference-integrity.json
+test-results
+playwright-report
+docs/screenshots
+package-lock.json
+next-env.d.ts
